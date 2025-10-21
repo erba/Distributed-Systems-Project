@@ -1,5 +1,5 @@
 # Project for the course Distributed Systems
-## Theme: Build a simple ticket management system using UDP, AMQP, REST, and gRPC.
+## Theme: Build a simple ticket management system using Java EE (Jakarta) and communication protocols UDP, AMQP, REST, and gRPC.
 ## Running the project:
 ### Starting the server
 1. The server needs to be started first
